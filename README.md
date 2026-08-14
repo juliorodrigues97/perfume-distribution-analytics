@@ -1,5 +1,4 @@
-# ![Uploading image.png…]()
-Perfume Distribution — Sales Analytics Dashboard
+# 🧴Perfume Distribution — Sales Analytics Dashboard
 
 ## Overview
 An end-to-end sales analytics project covering the full pipeline from raw data generation to an interactive Power BI dashboard. It includes revenue tracking against target, year-over-year variance analysis, RFM customer segmentation, and Pareto/ABC portfolio concentration analysis.

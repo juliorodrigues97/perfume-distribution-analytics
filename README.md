@@ -82,6 +82,8 @@ Raw generation → Data quality validation → Cleaning & business rules → Pow
 ---
 
 ## Author
-Julio Rodrigues - Data & Business Analyst
+Julio Rodrigues - Data Analyst  
 [LinkedIn](https://www.linkedin.com/in/julio-cesar-rodrigues/) | Portfolio | [GitHub](https://github.com/juliorodrigues97)
+
+
 

@@ -68,7 +68,7 @@ Raw generation → Data quality validation → Cleaning & business rules → Pow
 |---|---|
 | ![Account Detail](assets/screenshots/account_detail.png) | ![Contribution Detail](assets/screenshots/contribution_detail.png) |
 
-| Cross-Sell Analysis | (opcional: 4ª de detalhe) |
+| Cross-Sell Analysis |
 |---|---|
 | ![Cross-Sell](assets/screenshots/cross_sell_analysis.png) | |
 

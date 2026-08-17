@@ -41,4 +41,32 @@ perfume-distribution-analytics/
 
 ---
 
+## Data Pipeline
+Raw generation → Data quality validation → Cleaning & business rules → Power BI model
+
+---
+
+## Key Features
+- Revenue vs. target tracking with MTD pace projection
+- YoY revenue bridge (volume vs. price/mix decomposition)
+- RFM customer segmentation
+- ABC/Pareto portfolio analysis with cross-sell insights
+
+---
+
+## Screenshots
+[imagens aqui]
+
+---
+
+## Setup
+1. Set the `PRESTIGE_DATA_PATH` environment variable (or edit the path directly in the notebooks)
+2. Run notebooks in numbered order
+3. Open `dashboard/sales_performance_dashboard.pbix` and set the `DataPath` parameter to your local data folder
+
+---
+
+## Author
+Julio Rodrigues - Data & Business Analyst
+[LinkedIn](https://www.linkedin.com/in/julio-cesar-rodrigues/) | Portfolio | [GitHub](https://github.com/juliorodrigues97)
 

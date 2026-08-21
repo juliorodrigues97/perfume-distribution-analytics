@@ -14,7 +14,7 @@ Since I was studying data analytics on the side, I saw an opportunity to build s
 
 ## Interactive Dashboard Demo
 
-[▶️ Watch the full dashboard walkthrough](./assets/dashboard-demo.mp4)
+[▶️ Watch the full dashboard walkthrough](./assets/dashboard-demo.mp4) <video src="./assets/dashboard-demo.mp4" controls width="100%"></video>
 
 ---
 

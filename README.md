@@ -6,6 +6,8 @@
 
 *Click the image above to watch a 1-minute walkthrough of the dashboard.*
 
+<video src="./assets/dashboard_demo.mp4" controls width="100%"></video>
+
 ---
 
 ## Overview

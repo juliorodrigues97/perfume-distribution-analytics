@@ -12,6 +12,12 @@ Since I was studying data analytics on the side, I saw an opportunity to build s
 
 ---
 
+## Interactive Dashboard Demo
+
+[▶️ Watch the full dashboard walkthrough](./assets/dashboard-demo.mp4)
+
+---
+
 ## Data Note
 The original company name, employees, customers, and financial figures have been fully anonymized — all data in this repository is synthetic, generated to mirror the structure, scale, and data quality challenges of the original production system (including realistic "dirty data" scenarios like inconsistent categorization, duplicate records, and missing values).
 

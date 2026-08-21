@@ -1,5 +1,13 @@
 # 🧴Perfume Distribution — Sales Analytics Dashboard
 
+---
+
+[![Dashboard Demo](assets/screenshots/page1_sales_performance.png)](https://www.youtube.com/watch?v=Sy8Xe4zqbcw)
+
+*Click the image above to watch a 1-minute walkthrough of the dashboard.*
+
+---
+
 ## Overview
 An end-to-end sales analytics project covering the full pipeline from raw data generation to an interactive Power BI dashboard. It includes revenue tracking against target, a breakdown of YoY performance into volume vs. price/mix effects, RFM-based customer segmentation, and Pareto/ABC portfolio concentration analysis.
 
@@ -9,12 +17,6 @@ An end-to-end sales analytics project covering the full pipeline from raw data g
 This project is based on real-world experience as an operations analyst at a perfume and cosmetics distribution company. Although it wasn't part of my formal role, I noticed the sales team's only performance-tracking tool was a spreadsheet with a "thermometer" chart per rep, comparing revenue to target — no historical trend, no drill-down, no way to see what was actually driving the numbers.
 
 Since I was studying data analytics on the side, I saw an opportunity to build something more useful: a centralized dashboard covering not just revenue vs. target, but also YoY performance drivers, customer segmentation, and portfolio concentration — insights the team didn't have visibility into before.
-
----
-
-## Interactive Dashboard Demo
-
-[▶️ Watch the Interactive Dashboard Demo](./assets/dashboard_demo.mp4)
 
 ---
 

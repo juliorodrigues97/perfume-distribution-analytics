@@ -37,15 +37,15 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 
 perfume-distribution-analytics/
 
-├── data/
-│ ├── raw/us/
-│ └── processed/us/
+├── `data/` # Raw and cleaned datasets (Aug 2021 – Feb 2024)
 
-├── notebooks/
+├── `notebooks/` # Data cleaning scripts (Python)
 
-├── dashboard/
+├── `assets/` Dashboard screenshots
 
-└── assets/screenshots/
+├── `dashboard/` # Power BI dashboard files (.pbix)
+
+├── `README.md` # Project documentation (this file)
 
 ---
 

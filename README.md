@@ -2,7 +2,7 @@
 
 ---
 
-[![Watch Dashboard Demo](./assets/dashboard_demo_thumbnail.png)](assets/screenshots/dashboard_demo_thumbnail.png)](https://www.youtube.com/watch?v=Sy8Xe4zqbcw)
+[![Watch Dashboard Demo](./assets/screenshots/dashboard_demo_thumbnail.png)](assets/screenshots/dashboard_demo_thumbnail.png)](https://www.youtube.com/watch?v=Sy8Xe4zqbcw)
 
 *Click the image above to watch a 1-minute walkthrough of the dashboard.*
 

@@ -39,7 +39,7 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 Tracks monthly revenue against target, with daily pace and month-end 
 forecast. 
 
-**Example insight (February 2024):** 
+- **Example insight (February 2024):** 
 Revenue closed at $2.06M against a $2.01M target (102.8%), a $55.7K beat driven mostly by a strong final week — daily pace was behind target for 26 of the 29 days before catching up on day 29. Rep-level performance varied widely, from significantly under target to well over 2x goal, highlighting how much individual variance the monthly total can mask.
 
 ### 2. Revenue Bridge

@@ -33,7 +33,7 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 
 ---
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Sales Performance
 Tracks monthly revenue against target, with daily pace and month-end 

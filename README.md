@@ -33,6 +33,21 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 
 ---
 
+## 📈 Dashboard Pages
+
+### 1. Sales Performance
+Tracks monthly revenue against target, with daily pace and month-end 
+forecast. 
+
+**Example insight (February 2024):** 
+Revenue closed at $2.06M against a $2.01M target (102.8%), a $55.7K beat driven mostly by a strong final week — daily pace was behind target for 26 of the 29 days before catching up on day 29. Rep-level performance varied widely, from significantly under target to well over 2x goal, highlighting how much individual variance the monthly total can mask.
+
+### 2. Revenue Bridge
+Breaks down YoY revenue change into volume and price/mix effects, 
+ranked by rep, customer, and brand. *Example insight: "..."*
+
+---
+
 ## Repository Structure
 
 perfume-distribution-analytics/
@@ -92,6 +107,3 @@ Raw generation → Data quality validation → Cleaning & business rules → Pow
 ## Author
 Julio Rodrigues - Data Analyst  
 [LinkedIn](https://www.linkedin.com/in/julio-cesar-rodrigues/) | Portfolio | [GitHub](https://github.com/juliorodrigues97)
-
-
-

@@ -38,7 +38,7 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 ### 1. Sales Performance
 Provides an executive view of revenue performance against target, combining overall KPIs, sales representative performance, and revenue pacing to identify whether the business is on track to achieve its goal.
 
-assets/screenshots/page1_sales_performance.png
+ ![Sales Performance](assets/screenshots/page1_sales_performance.png)
 
 **Example insight (February 2024):** 
 - **Revenue exceeded target, but performance was not consistent throughout the month** - 

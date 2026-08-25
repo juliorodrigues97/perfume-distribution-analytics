@@ -39,11 +39,11 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 Provides an executive view of revenue performance against target, combining overall KPIs, sales representative performance, and revenue pacing to identify whether the business is on track to achieve its goal.
 
 **Example insight (February 2024):** 
-- **Revenue exceeded target, but performance was not consistent throughout the month.**
+- **Revenue exceeded target, but performance was not consistent throughout the month.** - 
 Revenue closed at $2.06M, 102.78% of target, finishing $55.7K above goal after periods of significant negative pacing earlier in the month. Strong performance toward the end of the period ultimately brought the business above target.
-- **Growth was driven by both higher order volume and larger transactions.**
+- **Growth was driven by both higher order volume and larger transactions.** - 
 Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 28.65% increase in AOV, indicating that growth came from both increased sales activity and higher-value transactions.
-- **Overall target achievement masks significant differences in sales performance.**
+- **Overall target achievement masks significant differences in sales performance.** - 
 Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
 
 ### 2. Revenue Bridge

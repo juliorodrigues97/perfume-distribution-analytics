@@ -36,11 +36,15 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 ## Dashboard Pages
 
 ### 1. Sales Performance
-Tracks monthly revenue against target, with daily pace and month-end 
-forecast. 
+Provides an executive view of revenue performance against target, combining overall KPIs, sales representative performance, and revenue pacing to identify whether the business is on track to achieve its goal.
 
-- **Example insight (February 2024):** 
-Revenue closed at $2.06M against a $2.01M target (102.8%), a $55.7K beat driven mostly by a strong final week — daily pace was behind target for 26 of the 29 days before catching up on day 29. Rep-level performance varied widely, from significantly under target to well over 2x goal, highlighting how much individual variance the monthly total can mask.
+**Example insight (February 2024):** 
+- **Revenue exceeded target, but performance was not consistent throughout the month.**
+Revenue closed at $2.06M, 102.78% of target, finishing $55.7K above goal after periods of significant negative pacing earlier in the month. Strong performance toward the end of the period ultimately brought the business above target.
+- **Growth was driven by both higher order volume and larger transactions.**
+Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 28.65% increase in AOV, indicating that growth came from both increased sales activity and higher-value transactions.
+- **Overall target achievement masks significant differences in sales performance.**
+Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
 
 ### 2. Revenue Bridge
 Breaks down YoY revenue change into volume and price/mix effects, 

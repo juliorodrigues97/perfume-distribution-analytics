@@ -41,18 +41,29 @@ Provides an executive view of revenue performance against target, combining over
  ![Sales Performance](assets/screenshots/page1_sales_performance.png)
 
 **Example insights (February 2024):** 
-- **Revenue exceeded target, but performance was not consistent throughout the month**  
-Revenue closed at $2.06M, 102.78% of target, finishing $55.7K above goal after periods of significant negative pacing earlier in the month. Strong performance toward the end of the period ultimately brought the business above target.
+- **Revenue exceeded target, but performance was not consistent throughout the month.**  
+Revenue closed at $2.06M, 102.78% of target — a $55.7K beat. The month saw significant negative pacing through most of the period, with performance turning positive only in the final days.
 
-- **Growth was driven by both higher order volume and larger transactions**  
+- **Growth was driven by both higher order volume and larger transactions.**  
 Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 28.65% increase in AOV, indicating that growth came from both increased sales activity and higher-value transactions.
 
-- **Overall target achievement masks significant differences in sales performance**  
+- **Overall target achievement masks significant differences in sales performance.**  
 Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
 
-### 2. Revenue Bridge
-Breaks down YoY revenue change into volume and price/mix effects, 
-ranked by rep, customer, and brand. *Example insight: "..."*
+### 2. Revenue Bridge 
+Provides a diagnostic view of the year-over-year revenue change, decomposing performance into volume and price/mix effects and allowing users to identify the sales representatives, customers, or brands contributing most to the change.
+
+![Revenue Bridge](assets/screenshots/page2_revenue_bridge.png)
+
+**Key findings (February 2024):** 
+- **Revenue growth was primarily driven by price/mix improvements, which more than offset a significant decline in volume.**  
+Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less itens, but at meaningfully higher average value.
+
+- **Positive revenue contribution was most concentrated at the customer level.**  
+The top five customers contributed approximately $814K in incremental revenue, exceeding the company's $765.5K net YoY gain. By comparison, the top five sales reps contributed $625K, while the top five brands contributed $370K. This indicates that YoY growth was particularly concentrated among a small group of key customers, with declines elsewhere offsetting part of their contribution.
+
+- **The diagnostic breakdown helps identify where and why revenue changed.**  
+By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and Positive/Negative impacts, the analysis moves beyond the overall revenue result to identify the specific contributors and drivers behind the YoY change.
 
 ---
 

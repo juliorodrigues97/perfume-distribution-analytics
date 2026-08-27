@@ -80,6 +80,15 @@ New Customers represent 195 accounts (~44% of the active base) but contribute ap
 - **The segmentation highlights distinct retention and reactivation opportunities.**  
 While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
 
+### 4. Portfolio Concentration (Pareto)
+Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and supporting portfolio prioritization.
+
+![Pareto](assets/screenshots/page4_pareto_abc.png)
+
+**Key findings (February 2024):**
+- **
+
+
 ---
 
 ## Repository Structure

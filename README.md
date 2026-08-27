@@ -65,6 +65,21 @@ The top five customers contributed approximately $814K in incremental revenue, e
 - **The diagnostic breakdown helps identify where and why revenue changed.**  
 By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and Positive/Negative impacts, the analysis moves beyond the overall revenue result to identify the specific contributors and drivers behind the YoY change.
 
+### 3. Strategic RFM Segmentation
+Provides a 12-month Recency, Frequency, and Monetary analysis to segment accounts by customer value and engagement, supporting retention, development, and reactivation strategies.
+
+![RFM](assets/screenshots/page3_rfm_segmentation.png)
+
+**Key findings (February 2024):** 
+- **Revenue is highly concentrated among a small group of high-value customers.**  
+Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%). This highlights the importance of protecting and retaining the highest-value accounts.
+
+- **The customer base is heavily weighted toward new and lower-value accounts.**  
+New Customers represent 195 accounts (~44% of the active base) but contribute approximately $2.4M (~6.5%) of revenue, indicating significant potential to increase customer value through retention and development.
+
+- **The segmentation highlights distinct retention and reactivation opportunities.**  
+While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
+
 ---
 
 ## Repository Structure

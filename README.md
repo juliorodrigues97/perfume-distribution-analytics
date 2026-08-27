@@ -86,8 +86,14 @@ Provides an 80/20 analysis of revenue concentration across brands and product li
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
 **Key findings (February 2024):**
-- **
+- **Revenue was highly concentrated across a small portion of the portfolio.**  
+At the 80% revenue threshold, just 147 products (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
 
+- **The Pareto distribution highlights clear portfolio prioritization opportunities.**  
+The concentration of revenue among a limited number of product lines suggests that these high-contribution products should receive greater attention in areas such as inventory availability, commercial focus, and performance monitoring.
+
+- **ABC classification provides an additional framework for portfolio prioritization.**  
+The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
 
 ---
 

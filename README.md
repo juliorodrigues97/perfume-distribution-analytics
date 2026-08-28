@@ -81,7 +81,7 @@ New Customers represent 195 accounts (~44% of the active base) but contribute ap
 While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
 
 ### 4. Portfolio Concentration (Pareto)
-Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and supporting portfolio prioritization.
+Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and enabling users to drill through to detailed cross-sell analysis for selected brands.
 
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
@@ -94,6 +94,17 @@ The concentration of revenue among a limited number of product lines suggests th
 
 - **ABC classification provides an additional framework for portfolio prioritization.**  
 The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
+
+## Drillthrough Analysis
+The dashboard includes drillthrough pages that allow users to move from high-level performance analysis into more detailed investigations.
+
+### Cross-Sell Analysis
+Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
+
+[Cross-Sell](assets/screenshots/cross_sell_analysis.png)
+
+**Example finding — Benton Lab**
+Benton Lab's strongest commercial pairing was Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
 
 ---
 

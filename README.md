@@ -98,6 +98,21 @@ The ABC analysis further segments the portfolio into Class A, B, and C based on 
 ## Drillthrough Analysis
 The dashboard includes drillthrough pages that allow users to move from high-level performance analysis into more detailed investigations.
 
+### Contribution Detail
+Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy while comparing units sold, pricing, and customer activity against the previous year.
+
+![Contribution Detail](assets/screenshots/contribution_detail.png)
+
+**Example insights — Foster Luxury**
+- **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
+The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase.
+
+- **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
+Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
+
+- **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**
+By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
+
 ### Cross-Sell Analysis
 Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 

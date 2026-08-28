@@ -105,7 +105,7 @@ Provides a detailed breakdown of revenue variation for a selected brand, sales r
 
 **Example insights — Foster Luxury**
 - **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
-The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase.
+The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
 
 - **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
 Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.

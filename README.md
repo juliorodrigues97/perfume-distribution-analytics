@@ -120,14 +120,13 @@ Provides a detailed view of accounts within a selected RFM segment, combining re
 
 **Example insights — Champions**
 - **Champions represented a small but highly valuable group of customers.**  
-The segment contained just 3 active accounts, all with the highest possible RFM score of 5-5-5, yet generated $16.45M in LTM revenue across 2,334 orders.
+The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
 
 - **Revenue was concentrated among the segment's top accounts.**  
 Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
 
 - **The drillthrough connects customer segmentation with actionable account-level detail.**  
 Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value customers are located.
-
 
 ### Cross-Sell Analysis
 Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.

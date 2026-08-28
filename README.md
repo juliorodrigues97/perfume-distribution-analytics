@@ -103,7 +103,7 @@ Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillt
 
 ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
 
-**Example finding — Benton Lab**
+**Example finding — Benton Lab**  
 Benton Lab's strongest commercial pairing was Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
 
 ---

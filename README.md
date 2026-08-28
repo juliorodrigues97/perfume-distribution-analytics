@@ -110,8 +110,24 @@ The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42
 - **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
 Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
 
-- **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**
+- **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
 By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
+
+### Account Detail
+Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention and engagement strategies.
+
+![Account Detail](assets/screenshots/account_detail.png)
+
+**Example insights — Champions**
+- **Champions represented a small but highly valuable group of customers.**  
+The segment contained just 3 active accounts, all with the highest possible RFM score of 5-5-5, yet generated $16.45M in LTM revenue across 2,334 orders.
+
+- **Revenue was concentrated among the segment's top accounts.**  
+Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
+
+_ **The drillthrough connects customer segmentation with actionable account-level detail.**  
+Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value customers are located.
+
 
 ### Cross-Sell Analysis
 Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.

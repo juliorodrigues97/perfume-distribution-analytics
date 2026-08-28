@@ -125,7 +125,7 @@ The segment contained just 3 active accounts, all with the highest possible RFM 
 - **Revenue was concentrated among the segment's top accounts.**  
 Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
 
-_ **The drillthrough connects customer segmentation with actionable account-level detail.**  
+- **The drillthrough connects customer segmentation with actionable account-level detail.**  
 Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value customers are located.
 
 

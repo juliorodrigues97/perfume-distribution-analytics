@@ -35,19 +35,21 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 
 ## Dashboard Pages
 
+### Core Analysis
+
 ### 1. Sales Performance
 Provides an executive view of revenue performance against target, combining overall KPIs, sales representative performance, and revenue pacing to identify whether the business is on track to achieve its goal.
 
  ![Sales Performance](assets/screenshots/page1_sales_performance.png)
 
-**Example insights (February 2024):** 
+**Key findings — February 2024:** 
 - **Revenue exceeded target, but performance was not consistent throughout the month.**  
 Revenue closed at $2.06M, 102.78% of target — a $55.7K beat. The month saw significant negative pacing through most of the period, with performance turning positive only in the final days.
 
 - **Growth was driven by both higher order volume and larger transactions.**  
 Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 28.65% increase in AOV, indicating that growth came from both increased sales activity and higher-value transactions.
 
-- **Overall target achievement masks significant differences in sales performance.**  
+- **Overall target achievement masks significant differences across sales representatives**  
 Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
 
 ### 2. Revenue Bridge 
@@ -55,11 +57,11 @@ Provides a diagnostic view of the year-over-year revenue change, decomposing per
 
 ![Revenue Bridge](assets/screenshots/page2_revenue_bridge.png)
 
-**Key findings (February 2024):** 
+**Key findings - February 2024:** 
 - **Revenue growth was primarily driven by price/mix improvements, which more than offset a significant decline in volume.**  
-Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less itens, but at meaningfully higher average value.
+Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less units, but at meaningfully higher average value.
 
-- **Positive revenue contribution was most concentrated at the customer level.**  
+- **Revenue growth was most concentrated at the customer level.**  
 The top five customers contributed approximately $814K in incremental revenue, exceeding the company's $765.5K net YoY gain. By comparison, the top five sales reps contributed $625K, while the top five brands contributed $370K. This indicates that YoY growth was particularly concentrated among a small group of key customers, with declines elsewhere offsetting part of their contribution.
 
 - **The diagnostic breakdown helps identify where and why revenue changed.**  
@@ -70,7 +72,7 @@ Provides a 12-month Recency, Frequency, and Monetary analysis to segment account
 
 ![RFM](assets/screenshots/page3_rfm_segmentation.png)
 
-**Key findings (February 2024):** 
+**Key findings - February 2024:** 
 - **Revenue is highly concentrated among a small group of high-value customers.**  
 Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%). This highlights the importance of protecting and retaining the highest-value accounts.
 
@@ -85,9 +87,9 @@ Provides an 80/20 analysis of revenue concentration across brands and product li
 
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
-**Key findings (February 2024):**
+**Key findings - February 2024:**
 - **Revenue was highly concentrated across a small portion of the portfolio.**  
-At the 80% revenue threshold, just 147 products (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
+At the 80% revenue threshold, just 147 product lines (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
 
 - **The Pareto distribution highlights clear portfolio prioritization opportunities.**  
 The concentration of revenue among a limited number of product lines suggests that these high-contribution products should receive greater attention in areas such as inventory availability, commercial focus, and performance monitoring.
@@ -95,15 +97,15 @@ The concentration of revenue among a limited number of product lines suggests th
 - **ABC classification provides an additional framework for portfolio prioritization.**  
 The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
 
-## Drillthrough Analysis
+## Drillthrough Pages
 The dashboard includes drillthrough pages that allow users to move from high-level performance analysis into more detailed investigations.
 
-### Contribution Detail
+### 5. Contribution Detail
 Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy while comparing units sold, pricing, and customer activity against the previous year.
 
 ![Contribution Detail](assets/screenshots/contribution_detail.png)
 
-**Example insights — Foster Luxury**
+**Example — Foster Luxury**
 - **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
 The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
 
@@ -113,12 +115,12 @@ Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagn
 - **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
 By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
 
-### Account Detail
+### 6. Account Detail
 Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention and engagement strategies.
 
 ![Account Detail](assets/screenshots/account_detail.png)
 
-**Example insights — Champions**
+**Example — Champions**
 - **Champions represented a small but highly valuable group of customers.**  
 The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
 
@@ -128,13 +130,13 @@ Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of 
 - **The drillthrough connects customer segmentation with actionable account-level detail.**  
 Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value customers are located.
 
-### Cross-Sell Analysis
+### 7. Cross-Sell Analysis
 Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 
 ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
 
-**Example finding — Benton Lab**  
-Benton Lab's strongest commercial pairing was Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
+**Example — Benton Lab**  
+Benton Lab's strongest cross-sell relationship was with Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
 
 ---
 

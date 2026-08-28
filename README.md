@@ -101,7 +101,7 @@ The dashboard includes drillthrough pages that allow users to move from high-lev
 ### Cross-Sell Analysis
 Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 
-[Cross-Sell](assets/screenshots/cross_sell_analysis.png)
+![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
 
 **Example finding — Benton Lab**
 Benton Lab's strongest commercial pairing was Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.

@@ -165,9 +165,8 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 > - **The paired sales ranking shows how strongly other brands co-occur with the selected one.**  
 > Beyond the top match, the ranking lists every brand's order overlap with Benton Lab, helping identify secondary pairing opportunities beyond the single strongest relationship.
 >
->- **This view supports cross-sell and bundling decisions at the brand level.**  
-> By selecting any brand from the Portfolio Concentration page, users can identify which other brands are most commonly purchased together — useful for promotional bundling, assortment planning, or sales
->rep guidance on complementary offers.
+> - **This view turns cross-sell patterns into actionable commercial decisions.**  
+> Identifying which brands are most commonly purchased together supports promotional bundling, assortment planning, and sales rep guidance on complementary offers.
 
 </details>
 

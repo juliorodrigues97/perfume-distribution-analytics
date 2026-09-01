@@ -117,14 +117,14 @@ Provides an 80/20 analysis of revenue concentration across brands and product li
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
 **Key findings — February 2024:**
-- **Revenue is highly concentrated in a small share of the portfolio.**  
-At the 80% revenue threshold, 147 product lines (21% of the portfolio) account for $1.65M in net revenue — 80% of the total.
+- **Revenue was highly concentrated across a small portion of the portfolio.**  
+At the 80% revenue threshold, just 147 products (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
 
-- **The threshold selector lets users test different concentration scenarios.**  
-Adjusting the selector between 60% and 90% dynamically recalculates how many product lines and brands are needed to reach that share of revenue, helping identify how sensitive the portfolio is to different cutoffs.
+- **The Pareto distribution highlights clear portfolio prioritization opportunities.**  
+The concentration of revenue among a limited number of product lines suggests that these high-contribution products should receive greater attention in areas such as inventory availability, commercial focus, and performance monitoring.
 
 - **An expandable ABC breakdown and brand-level drillthrough extend the analysis further.**  
-Clicking into the ABC classification view breaks the same portfolio into Class A, B, and C based on cumulative contribution, and selecting any brand from the table opens a drillthrough into Cross-Sell Analysis to explore purchasing relationships with other brands.
+Clicking into the ABC classification view breaks the same portfolio into Class A, B, and C based on cumulative contribution, and selecting any brand from the graph opens a drillthrough into Cross-Sell Analysis to explore purchasing relationships with other brands.
 
 > **Drillthrough → Cross-Sell Analysis**  
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.

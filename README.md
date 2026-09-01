@@ -166,26 +166,6 @@ Raw generation → Data quality validation → Cleaning & business rules → Pow
 
 ---
 
-## Screenshots
-
-| Sales Performance | Revenue Bridge |
-|---|---|
-| ![Sales Performance](assets/screenshots/page1_sales_performance.png) | ![Revenue Bridge](assets/screenshots/page2_revenue_bridge.png) |
-
-| RFM Segmentation | Pareto/ABC |
-|---|---|
-| ![RFM](assets/screenshots/page3_rfm_segmentation.png) | ![Pareto](assets/screenshots/page4_pareto_abc.png) |
-
-| Account Detail | Contribution Detail |
-|---|---|
-| ![Account Detail](assets/screenshots/account_detail.png) | ![Contribution Detail](assets/screenshots/contribution_detail.png) |
-
-| Cross-Sell Analysis |
-|---|
-| ![Cross-Sell](assets/screenshots/cross_sell_analysis.png) | 
-
----
-
 ## Setup
 1. Set the `PRESTIGE_DATA_PATH` environment variable (or edit the path directly in the notebooks)
 2. Run notebooks in numbered order

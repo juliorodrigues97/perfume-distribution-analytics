@@ -130,11 +130,21 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 
 > **Drillthrough → Cross-Sell Analysis**  
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
- 
+> 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
-
+>
 > **Example — Benton Lab**  
 > Benton Lab's strongest cross-sell relationship was with Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
+> **Example — Benton Lab**
+> - **Benton Lab's strongest cross-sell relationship was with Chateau Jackson.**  
+> The two brands appeared together in 25 orders, representing 71.4% of all orders that included Benton Lab — the highest pairing rate among all brands analyzed.
+> 
+> - **The paired sales ranking shows how strongly other brands co-occur with the selected one.**  
+> Beyond the top match, the ranking lists every brand's order overlap with Benton Lab, helping identify secondary pairing opportunities beyond the single strongest relationship.
+>
+>- **This view supports cross-sell and bundling decisions at the brand level.**  
+> By selecting any brand from the Portfolio Concentration page, users can identify which other brands are most commonly purchased together — useful for promotional bundling, assortment planning, or sales
+>rep guidance on complementary offers.
 
 ---
 

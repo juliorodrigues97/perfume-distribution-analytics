@@ -95,6 +95,22 @@ New Customers represent 195 accounts (~44% of the active base) but contribute ap
 - **The segmentation highlights distinct retention and reactivation opportunities.**  
 While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
 
+> **Drillthrough → Account Detail**
+> Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
+>
+> ![Account Detail](assets/screenshots/account_detail.png)
+>
+> **Example — Champions**
+> - **Champions represented a small but highly valuable group of customers.**  
+> The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
+>
+> - **Revenue was concentrated among the segment's top accounts.**  
+> Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
+> 
+> - **The drillthrough connects customer segmentation with actionable account-level detail.**  
+> Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value > customers are located.
+>
+
 ### 4. Portfolio Concentration (Pareto)
 Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and enabling users to drill through to detailed cross-sell analysis for selected brands.
 
@@ -110,31 +126,14 @@ The concentration of revenue among a limited number of product lines suggests th
 - **ABC classification provides an additional framework for portfolio prioritization.**  
 The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
 
-################################################# Drillthrough Pages ##########################################################################################
-
-
-### 6. Account Detail
-Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention and engagement strategies.
-
-![Account Detail](assets/screenshots/account_detail.png)
-
-**Example — Champions**
-- **Champions represented a small but highly valuable group of customers.**  
-The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
-
-- **Revenue was concentrated among the segment's top accounts.**  
-Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
-
-- **The drillthrough connects customer segmentation with actionable account-level detail.**  
-Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value customers are located.
-
-### 7. Cross-Sell Analysis
-Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
-
-![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
-
-**Example — Benton Lab**  
-Benton Lab's strongest cross-sell relationship was with Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
+> **Drillthrough → Cross-Sell Analysis** 
+> Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
+> 
+> ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
+>
+> **Example — Benton Lab**  
+> Benton Lab's strongest cross-sell relationship was with Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
+>
 
 ---
 

@@ -110,7 +110,8 @@ While high-value segments require protection, a meaningful portion of the custom
 > Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
  
 > - **The drillthrough connects customer segmentation with actionable account-level detail.**  
-> Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value > customers are located.
+> Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value
+>customers are located.
 
 ### 4. Portfolio Concentration (Pareto)
 Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and enabling users to drill through to detailed cross-sell analysis for selected brands.

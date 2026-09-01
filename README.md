@@ -114,9 +114,10 @@ While high-value segments require protection, a meaningful portion of the custom
 </details>
 
 <details>
-<summary><b>Drillthrough → Account Detai</b></summary>
+<summary><b>Drillthrough → Account Detail</b></summary>
 
-> Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
+> Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention
+> and engagement strategies.
 > 
 > ![Account Detail](assets/screenshots/account_detail.png)
 > 

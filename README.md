@@ -49,7 +49,7 @@ Revenue closed at $2.06M, 102.78% of target — a $55.7K beat. The month saw sig
 Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 28.65% increase in AOV, indicating that growth came from both increased sales activity and higher-value transactions.
 
 - **Overall target achievement masks significant differences across sales representatives**  
-Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
+Individual sales reps showed substantial variation in target attainment — from significant misses to results far exceeding goal — highlighting opportunities for management attention despite the strong overall number.
 
 </details>
 
@@ -65,7 +65,7 @@ Provides a diagnostic view of the year-over-year revenue change, decomposing per
 Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less units, but at meaningfully higher average value.
 
 - **Revenue growth was most concentrated at the customer level.**  
-The top five customers contributed approximately $814K in incremental revenue, exceeding the company's $765.5K net YoY gain. By comparison, the top five sales reps contributed $625K, while the top five brands contributed $370K. This indicates that YoY growth was particularly concentrated among a small group of key customers, with declines elsewhere offsetting part of their contribution.
+The top five customers contributed approximately $814K in incremental revenue, exceeding the company's $765.5K net YoY gain. By comparison, the top five sales reps contributed $625K, while the top five brands contributed $370K. Growth was concentrated among a small group of key customers, with declines elsewhere offsetting part of the gain.
 
 - **The diagnostic breakdown helps identify where and why revenue changed.**  
 By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and Positive/Negative impacts, the analysis moves beyond the overall revenue result to identify the specific contributors and drivers behind the YoY change.
@@ -81,12 +81,11 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 >
 > **Example — Foster Luxury**
 > - **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
-> The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer
->base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
+> The brand sold 1,305 units vs. 345 LY, while average price rose from $70.42 to $112.76 — both volume and pricing contributed to the gain. Active customers also grew, from 132 to 151.
 >
 > - **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
-> Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution — for
-> example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
+> Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). Expanding the hierarchy reveals the customers behind each rep's contribution — Smith Scents Holding, for
+>example, accounted for $15.2K of Patty Perez's total.
 >
 > - **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
 > By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity
@@ -103,7 +102,7 @@ Provides a 12-month Recency, Frequency, and Monetary analysis to segment account
 <summary><b>Key findings — February 2024</b></summary>
  
 - **Revenue is highly concentrated among a small group of high-value customers.**  
-Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%). This highlights the importance of protecting and retaining the highest-value accounts.
+Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%).
 
 - **The customer base is heavily weighted toward new and lower-value accounts.**  
 New Customers represent 195 accounts (~44% of the active base) but contribute approximately $2.4M (~6.5%) of revenue, indicating significant potential to increase customer value through retention and development.
@@ -129,8 +128,7 @@ While high-value segments require protection, a meaningful portion of the custom
 > Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
 > 
 > - **The drillthrough connects customer segmentation with actionable account-level detail.**  
-> Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value
->customers are located.
+> Users can drill into individual accounts within a segment — purchase frequency, LTM revenue, recency — and use the geographic view to see where high-value customers are located.
 
 </details>
 

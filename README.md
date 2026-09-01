@@ -54,6 +54,9 @@ Provides a diagnostic view of the year-over-year revenue change, decomposing per
 
 ![Revenue Bridge](assets/screenshots/page2_revenue_bridge.png)
 
+<details>
+<summary><b>Key findings — February 2024</b></summary>
+ 
 **Key findings — February 2024:** 
 - **Revenue growth was primarily driven by price/mix improvements, which more than offset a significant decline in volume.**  
 Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less units, but at meaningfully higher average value.
@@ -63,6 +66,11 @@ The top five customers contributed approximately $814K in incremental revenue, e
 
 - **The diagnostic breakdown helps identify where and why revenue changed.**  
 By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and Positive/Negative impacts, the analysis moves beyond the overall revenue result to identify the specific contributors and drivers behind the YoY change.
+
+</details>
+
+<details>
+<summary><b>Drillthrough → Contribution Detail</b></summary>
 
 > **Drillthrough → Contribution Detail**  
 > Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy > while comparing units sold, pricing, and customer activity against the previous year.
@@ -81,6 +89,8 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 > - **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
 > By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity
 >against LY.
+
+</details>
 
 ### 3. Strategic RFM Segmentation
 Provides a 12-month Recency, Frequency, and Monetary analysis to segment accounts by customer value and engagement, supporting retention, development, and reactivation strategies.

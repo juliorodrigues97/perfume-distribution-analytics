@@ -54,7 +54,7 @@ Provides a diagnostic view of the year-over-year revenue change, decomposing per
 
 ![Revenue Bridge](assets/screenshots/page2_revenue_bridge.png)
 
-**Key findings - February 2024:** 
+**Key findings — February 2024:** 
 - **Revenue growth was primarily driven by price/mix improvements, which more than offset a significant decline in volume.**  
 Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less units, but at meaningfully higher average value.
 
@@ -86,7 +86,7 @@ Provides a 12-month Recency, Frequency, and Monetary analysis to segment account
 
 ![RFM](assets/screenshots/page3_rfm_segmentation.png)
 
-**Key findings - February 2024:** 
+**Key findings — February 2024:** 
 - **Revenue is highly concentrated among a small group of high-value customers.**  
 Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%). This highlights the importance of protecting and retaining the highest-value accounts.
 
@@ -116,15 +116,15 @@ Provides an 80/20 analysis of revenue concentration across brands and product li
 
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
-**Key findings - February 2024:**
-- **Revenue was highly concentrated across a small portion of the portfolio.**  
-At the 80% revenue threshold, just 147 product lines (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
+**Key findings — February 2024:**
+- **Revenue is highly concentrated in a small share of the portfolio.**  
+At the 80% revenue threshold, 147 product lines (21% of the portfolio) account for $1.65M in net revenue — 80% of the total.
 
-- **The Pareto distribution highlights clear portfolio prioritization opportunities.**  
-The concentration of revenue among a limited number of product lines suggests that these high-contribution products should receive greater attention in areas such as inventory availability, commercial focus, and performance monitoring.
+- **The long tail makes up most of the catalog but contributes the least.**  
+Class C alone spans 476 products (68% of the base) but generates just $334K — less than a fifth of what Class A produces from a third as many products, highlighting how much of the portfolio contributes marginally to overall revenue.
 
-- **ABC classification provides an additional framework for portfolio prioritization.**  
-The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
+- **The threshold selector and drillthrough turn this analysis into an actionable tool.**  
+Users can adjust the revenue threshold (60–90%) to test different concentration scenarios, and drill through from any brand into the Cross-Sell Analysis page to explore purchasing relationships with other brands in the portfolio.
 
 > **Drillthrough → Cross-Sell Analysis**  
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.

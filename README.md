@@ -99,13 +99,13 @@ While high-value segments require protection, a meaningful portion of the custom
 
 > **Drillthrough → Account Detail**  
 > Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
->
+> 
 > ![Account Detail](assets/screenshots/account_detail.png)
->
+> 
 > **Example — Champions**
 > - **Champions represented a small but highly valuable group of customers.**  
 > The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
->
+> 
 > - **Revenue was concentrated among the segment's top accounts.**  
 > Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
 > 
@@ -132,7 +132,7 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 > 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
->
+> 
 > **Example — Benton Lab**
 > - **Benton Lab's strongest cross-sell relationship was with Chateau Jackson.**  
 > The two brands appeared together in 25 orders, representing 71.4% of all orders that included Benton Lab — the highest pairing rate among all brands analyzed.

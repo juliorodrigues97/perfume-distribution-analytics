@@ -34,9 +34,6 @@ The goal of this project is to demonstrate the type of ETL, data cleaning, and b
 ---
 
 ## Dashboard Pages
-
-### Core Analysis
-
 ### 1. Sales Performance
 Provides an executive view of revenue performance against target, combining overall KPIs, sales representative performance, and revenue pacing to identify whether the business is on track to achieve its goal.
 
@@ -66,6 +63,22 @@ The top five customers contributed approximately $814K in incremental revenue, e
 
 - **The diagnostic breakdown helps identify where and why revenue changed.**  
 By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and Positive/Negative impacts, the analysis moves beyond the overall revenue result to identify the specific contributors and drivers behind the YoY change.
+
+> **Drillthrough → Contribution Detail**
+> Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy while comparing units sold, pricing, and customer activity against the previous year.
+
+![Contribution Detail](assets/screenshots/contribution_detail.png)
+
+**Example — Foster Luxury**
+- **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
+The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
+
+- **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
+Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
+
+- **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
+By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
+
 
 ### 3. Strategic RFM Segmentation
 Provides a 12-month Recency, Frequency, and Monetary analysis to segment accounts by customer value and engagement, supporting retention, development, and reactivation strategies.
@@ -97,23 +110,8 @@ The concentration of revenue among a limited number of product lines suggests th
 - **ABC classification provides an additional framework for portfolio prioritization.**  
 The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
 
-## Drillthrough Pages
-The dashboard includes drillthrough pages that allow users to move from high-level performance analysis into more detailed investigations.
+################################################# Drillthrough Pages ##########################################################################################
 
-### 5. Contribution Detail
-Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy while comparing units sold, pricing, and customer activity against the previous year.
-
-![Contribution Detail](assets/screenshots/contribution_detail.png)
-
-**Example — Foster Luxury**
-- **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
-The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
-
-- **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
-Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
-
-- **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
-By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
 
 ### 6. Account Detail
 Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention and engagement strategies.

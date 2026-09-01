@@ -39,7 +39,9 @@ Provides an executive view of revenue performance against target, combining over
 
  ![Sales Performance](assets/screenshots/page1_sales_performance.png)
 
-**Key findings — February 2024:** 
+<details>
+<summary><b>Key findings — February 2024</b></summary>
+ 
 - **Revenue exceeded target, but performance was not consistent throughout the month.**  
 Revenue closed at $2.06M, 102.78% of target — a $55.7K beat. The month saw significant negative pacing through most of the period, with performance turning positive only in the final days.
 
@@ -49,6 +51,8 @@ Revenue increased 59.08% vs. LY, supported by a 23.65% increase in orders and a 
 - **Overall target achievement masks significant differences across sales representatives**  
 Although the business exceeded its overall target, individual sales representatives showed substantial variation in target attainment, highlighting areas of strong performance as well as potential opportunities for management attention.
 
+</details>
+
 ### 2. Revenue Bridge 
 Provides a diagnostic view of the year-over-year revenue change, decomposing performance into volume and price/mix effects and allowing users to identify the sales representatives, customers, or brands contributing most to the change.
 
@@ -57,7 +61,6 @@ Provides a diagnostic view of the year-over-year revenue change, decomposing per
 <details>
 <summary><b>Key findings — February 2024</b></summary>
  
-**Key findings — February 2024:** 
 - **Revenue growth was primarily driven by price/mix improvements, which more than offset a significant decline in volume.**  
 Net revenue increased $765.5K vs. LY, as a $5.25M positive price/mix effect more than offset a $4.48M decline in volume — the company sold less units, but at meaningfully higher average value.
 
@@ -72,7 +75,6 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 <details>
 <summary><b>Drillthrough → Contribution Detail</b></summary>
 
-> **Drillthrough → Contribution Detail**  
 > Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy > while comparing units sold, pricing, and customer activity against the previous year.
 >
 > ![Contribution Detail](assets/screenshots/contribution_detail.png)
@@ -97,7 +99,9 @@ Provides a 12-month Recency, Frequency, and Monetary analysis to segment account
 
 ![RFM](assets/screenshots/page3_rfm_segmentation.png)
 
-**Key findings — February 2024:** 
+<details>
+<summary><b>Key findings — February 2024</b></summary>
+ 
 - **Revenue is highly concentrated among a small group of high-value customers.**  
 Champions and Loyal Customers represent only 25 of 442 active accounts (~6%), yet account for approximately $26.7M of $37.6M in revenue (~71%). This highlights the importance of protecting and retaining the highest-value accounts.
 
@@ -107,7 +111,11 @@ New Customers represent 195 accounts (~44% of the active base) but contribute ap
 - **The segmentation highlights distinct retention and reactivation opportunities.**  
 While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
 
-> **Drillthrough → Account Detail**  
+</details>
+
+<details>
+<summary><b>Drillthrough → Account Detai</b></summary>
+
 > Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
 > 
 > ![Account Detail](assets/screenshots/account_detail.png)
@@ -123,12 +131,16 @@ While high-value segments require protection, a meaningful portion of the custom
 > Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value
 >customers are located.
 
+</details>
+
 ### 4. Portfolio Concentration (Pareto)
 Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and enabling users to drill through to detailed cross-sell analysis for selected brands.
 
 ![Pareto](assets/screenshots/page4_pareto_abc.png)
 
-**Key findings — February 2024:**
+<details>
+<summary><b>Key findings — February 2024</b></summary>
+ 
 - **Revenue was highly concentrated across a small portion of the portfolio.**  
 At the 80% revenue threshold, just 147 products (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
 
@@ -138,7 +150,11 @@ The concentration of revenue among a limited number of product lines suggests th
 - **An expandable ABC breakdown and brand-level drillthrough extend the analysis further.**  
 Clicking into the ABC classification view breaks the same portfolio into Class A, B, and C based on cumulative contribution, and selecting any brand from the graph opens a drillthrough into Cross-Sell Analysis to explore purchasing relationships with other brands.
 
-> **Drillthrough → Cross-Sell Analysis**  
+</details>
+
+<details>
+<summary><b>Drillthrough → Cross-Sell Analysis</b></summary>
+ 
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 > 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
@@ -153,6 +169,8 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 >- **This view supports cross-sell and bundling decisions at the brand level.**  
 > By selecting any brand from the Portfolio Concentration page, users can identify which other brands are most commonly purchased together — useful for promotional bundling, assortment planning, or sales
 >rep guidance on complementary offers.
+
+</details>
 
 ---
 

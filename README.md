@@ -156,7 +156,7 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 <details>
 <summary><b>Drillthrough → Cross-Sell Analysis</b></summary>
  
-> Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
+> Selecting a brand from the Revenue by Brand visual activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 > 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
 > 

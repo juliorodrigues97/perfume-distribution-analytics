@@ -75,7 +75,8 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 <details>
 <summary><b>Drillthrough → Contribution Detail</b></summary>
 
-> Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy > while comparing units sold, pricing, and customer activity against the previous year.
+> Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy
+> while comparing units sold, pricing, and customer activity against the previous year.
 >
 > ![Contribution Detail](assets/screenshots/contribution_detail.png)
 >
@@ -141,7 +142,7 @@ Provides an 80/20 analysis of revenue concentration across brands and product li
 <summary><b>Key findings — February 2024</b></summary>
  
 - **Revenue was highly concentrated across a small portion of the portfolio.**  
-At the 80% revenue threshold, just 147 products (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
+At the 80% revenue threshold, just 147 products lines (21% of the portfolio) generated approximately $1.65M, representing 80% of total net revenue. This highlights the disproportionate contribution of a relatively small group of products.
 
 - **The Pareto distribution highlights clear portfolio prioritization opportunities.**  
 The concentration of revenue among a limited number of product lines suggests that these high-contribution products should receive greater attention in areas such as inventory availability, commercial focus, and performance monitoring.
@@ -174,30 +175,19 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 
 ## Repository Structure
 
+```
 perfume-distribution-analytics/
-
-├── `data/` # Raw and cleaned datasets (Aug 2021 – Feb 2024)
-
-├── `notebooks/` # Data cleaning scripts (Python)
-
-├── `assets/` Dashboard screenshots
-
-├── `dashboard/` # Power BI dashboard files (.pbix)
-
-├── `README.md` # Project documentation (this file)
+├── data/          # Raw and cleaned datasets (Aug 2021 – Feb 2024)
+├── notebooks/      # Data cleaning scripts (Python)
+├── assets/         # Dashboard screenshots
+├── dashboard/       # Power BI dashboard files (.pbix)
+└── README.md        # Project documentation
+```
 
 ---
 
 ## Data Pipeline
 Raw generation → Data quality validation → Cleaning & business rules → Power BI model
-
----
-
-## Key Features
-- Revenue vs. target tracking with MTD pace projection
-- YoY revenue bridge (volume vs. price/mix decomposition)
-- RFM customer segmentation
-- ABC/Pareto portfolio analysis with cross-sell insights
 
 ---
 

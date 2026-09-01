@@ -66,18 +66,20 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 
 > **Drillthrough → Contribution Detail**  
 > Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy > while comparing units sold, pricing, and customer activity against the previous year.
-
+>
 > ![Contribution Detail](assets/screenshots/contribution_detail.png)
-
+>
 > **Example — Foster Luxury**
 > - **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
-> The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
-
+> The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer >base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
+>
 > - **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
-> Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution — for example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
-
+> Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution — for
+> example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
+>
 > - **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
-> By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity against LY.
+> By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity
+>against LY.
 
 ### 3. Strategic RFM Segmentation
 Provides a 12-month Recency, Frequency, and Monetary analysis to segment accounts by customer value and engagement, supporting retention, development, and reactivation strategies.

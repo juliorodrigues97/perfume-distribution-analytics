@@ -95,7 +95,7 @@ New Customers represent 195 accounts (~44% of the active base) but contribute ap
 - **The segmentation highlights distinct retention and reactivation opportunities.**  
 While high-value segments require protection, a meaningful portion of the customer base falls into Hibernating, About to Sleep, and Needs Attention segments. These accounts represent potential reactivation and retention opportunities before further declines in engagement and value.
 
-> **Drillthrough → Account Detail**
+> **Drillthrough → Account Detail**  
 > Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
 >
 > ![Account Detail](assets/screenshots/account_detail.png)
@@ -126,7 +126,7 @@ The concentration of revenue among a limited number of product lines suggests th
 - **ABC classification provides an additional framework for portfolio prioritization.**  
 The ABC analysis further segments the portfolio into Class A, B, and C based on cumulative revenue contribution, allowing the business to distinguish high-value products from the long tail and apply differentiated management strategies.
 
-> **Drillthrough → Cross-Sell Analysis** 
+> **Drillthrough → Cross-Sell Analysis**  
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
 > 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)

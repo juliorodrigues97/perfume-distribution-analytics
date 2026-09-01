@@ -66,19 +66,18 @@ By switching between Sales Rep, Customer, and Brand, and between Top/Bottom and 
 
 > **Drillthrough → Contribution Detail**  
 > Provides a detailed breakdown of revenue variation for a selected brand, sales representative, or customer, allowing users to trace the underlying contribution across the Brand → Rep → Customer hierarchy > while comparing units sold, pricing, and customer activity against the previous year.
->
+
 > ![Contribution Detail](assets/screenshots/contribution_detail.png)
->
+
 > **Example — Foster Luxury**
 > - **Foster Luxury generated $122.9K in positive YoY revenue variation.**  
 > The brand sold 1,305 units vs. 345 LY, while average price increased from $70.42 to $112.76, indicating that both higher volume and higher pricing contributed to the revenue increase. Its active customer > base also increased, from 132 last year to 151, further supporting the brand's revenue growth.
->
+
 > - **Growth was spread across several sales representatives, with Patty Perez as the largest contributor.**  
 > Patty Perez contributed $25.0K, followed by Noah Rhodes ($24.1K) and Daniel Wagner ($17.0K). The hierarchy can then be expanded to identify the customers behind each representative's contribution—for > > example, Smith Scents Holding accounted for $15.2K of Patty Perez's contribution.
-> 
+
 > - **The drillthrough provides a detailed path from overall brand performance to individual customer relationships.**  
 > By expanding Brand → Rep → Customer, users can identify the specific commercial relationships behind the selected entity's revenue variation and compare their volume, pricing, and customer activity > against LY.
->
 
 ### 3. Strategic RFM Segmentation
 Provides a 12-month Recency, Frequency, and Monetary analysis to segment accounts by customer value and engagement, supporting retention, development, and reactivation strategies.
@@ -97,19 +96,18 @@ While high-value segments require protection, a meaningful portion of the custom
 
 > **Drillthrough → Account Detail**  
 > Provides a detailed view of accounts within a selected RFM segment, combining recency, frequency, monetary value, purchasing activity, and geographic distribution to support targeted customer retention > and engagement strategies.
->
+
 > ![Account Detail](assets/screenshots/account_detail.png)
->
+
 > **Example — Champions**
 > - **Champions represented a small but highly valuable group of customers.**  
 > The segment contained just 3 active accounts, generating $16.45M in LTM revenue across 2,334 orders.
->
+
 > - **Revenue was concentrated among the segment's top accounts.**  
 > Nicholson Fragrance Group generated $9.65M, accounting for approximately 59% of Champions' LTM revenue, followed by Duran Fragrance Holding ($4.01M) and Harper Beauty Corp ($2.79M).
-> 
+ 
 > - **The drillthrough connects customer segmentation with actionable account-level detail.**  
 > Users can identify the individual accounts within each RFM segment, evaluate their purchase frequency, LTM revenue, and most recent purchase, and use the geographic view to understand where high-value > customers are located.
->
 
 ### 4. Portfolio Concentration (Pareto)
 Provides an 80/20 analysis of revenue concentration across brands and product lines, identifying the products that account for the majority of revenue and enabling users to drill through to detailed cross-sell analysis for selected brands.
@@ -128,12 +126,11 @@ The ABC analysis further segments the portfolio into Class A, B, and C based on 
 
 > **Drillthrough → Cross-Sell Analysis**  
 > Selecting a brand from the Revenue by Brand visual (Page 4) activates the drillthrough navigation, allowing users to investigate cross-selling relationships between brands.
-> 
+ 
 > ![Cross-Sell](assets/screenshots/cross_sell_analysis.png)
->
+
 > **Example — Benton Lab**  
 > Benton Lab's strongest cross-sell relationship was with Chateau Jackson, which appeared together in 25 orders, representing 71.4% of orders containing the selected brand.
->
 
 ---
 

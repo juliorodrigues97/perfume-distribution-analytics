@@ -6,7 +6,7 @@
 
 *Click the image above to watch a 1-minute walkthrough of the dashboard.*
 
-[**View Interactive Dashboard →**]((https://app.powerbi.com/view?r=eyJrIjoiZDU5MjU1OTUtM2UyNi00ZWQyLWIxYmUtMjMyYWViOWM4MDBlIiwidCI6ImNiZDQ4NTkwLTRjZWItNDIwOS1hNGI1LTUwYTk5YmRiMTkxZCJ9))
+[**View Interactive Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiZDU5MjU1OTUtM2UyNi00ZWQyLWIxYmUtMjMyYWViOWM4MDBlIiwidCI6ImNiZDQ4NTkwLTRjZWItNDIwOS1hNGI1LTUwYTk5YmRiMTkxZCJ9)
 
 ---
 

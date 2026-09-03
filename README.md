@@ -6,6 +6,10 @@
 
 *Click the image above to watch a 1-minute walkthrough of the dashboard.*
 
+<a href="[SEU_LINK_DO_POWER_BI](https://app.powerbi.com/view?r=eyJrIjoiZDU5MjU1OTUtM2UyNi00ZWQyLWIxYmUtMjMyYWViOWM4MDBlIiwidCI6ImNiZDQ4NTkwLTRjZWItNDIwOS1hNGI1LTUwYTk5YmRiMTkxZCJ9)" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Interactive%20Dashboard-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=white">
+</a>
+
 ---
 
 ## Overview

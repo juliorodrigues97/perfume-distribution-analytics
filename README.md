@@ -3,7 +3,6 @@
 ---
 
 [![Watch Dashboard Demo](assets/screenshots/dashboard_demo_thumbnail.png)](https://www.youtube.com/watch?v=EeeS_uYPFOM)
-
 *Click the image above to watch a 1-minute walkthrough of the dashboard.*
 
 [**View Interactive Dashboard →**](https://app.powerbi.com/view?r=eyJrIjoiZDU5MjU1OTUtM2UyNi00ZWQyLWIxYmUtMjMyYWViOWM4MDBlIiwidCI6ImNiZDQ4NTkwLTRjZWItNDIwOS1hNGI1LTUwYTk5YmRiMTkxZCJ9)

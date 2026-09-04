@@ -208,9 +208,10 @@ Raw generation → Data quality validation → Cleaning & business rules → Pow
 ---
 
 ## Setup
-1. Set the `PRESTIGE_DATA_PATH` environment variable (or edit the path directly in the notebooks)
-2. Run notebooks in numbered order
-3. Open `dashboard/sales_performance_dashboard.pbix` and set the `DataPath` parameter to your local data folder
+This is a fully reproducible pipeline. To run it locally:
+1. Set the `MASKING_DATA_PATH` environment variable to your local data folder
+2. Run the notebooks in `notebooks/` in numbered order
+3. Open the `.pbix` file and set the `DataPath` parameter to match
 
 ---
 

@@ -174,6 +174,17 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 
 ---
 
+## Business Rules
+Key rules applied throughout the data model:
+
+- **Valid sale**: a transaction counts as revenue only if it has a standard sales tax code (excludes purchases, adjustments, and internal transfers), is not a bonus/free item, and is not a canceled invoice.
+- **Returns**: only transactions with sales-return-specific tax codes count as genuine returns — other return-like codes (e.g., undelivered merchandise, cancellations) are excluded from the return value calculation.
+- **Targets**: monthly targets were calibrated against valid revenue only, distributed across reps based on their historical share of company revenue, with randomized variance to simulate real-world target-setting.
+- **RFM segmentation**: scores are calculated at the customer account (group) level, not individual customer level — recency reflects the most recent purchase across all customers in the group.
+- **RFM scoring**: R, F, and M scores use fixed business thresholds (e.g., a purchase within the last 30 days scores R5, within 60 days scores R4, etc.), rather than dynamic quantiles based on the data's distribution. This means scores reflect an absolute business standard, not a relative ranking within the current customer base.
+
+---
+
 ## Repository Structure
 
 ```

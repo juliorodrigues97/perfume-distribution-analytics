@@ -181,7 +181,7 @@ Key rules applied throughout the data model:
 - **Returns**: only transactions with sales-return-specific tax codes count as genuine returns — other return-like codes (e.g., undelivered merchandise, cancellations) are excluded from the return value calculation.  
 - **Targets**: monthly targets were calibrated against valid revenue only, distributed across reps based on their historical share of company revenue, with randomized variance to simulate real-world target-setting.  
 - **RFM segmentation**: scores are calculated at the customer account (group) level, not individual customer level — recency reflects the most recent purchase across all customers in the group.  
-- **RFM scoring**: R, F, and M scores use fixed business thresholds (e.g., a purchase within the last 30 days scores R5, within 60 days scores R4, etc.), rather than dynamic quantiles based on the data's distribution. This means scores reflect an absolute business standard, not a relative ranking within the current customer base.  
+- **RFM scoring**: R, F, and M scores use fixed business thresholds — for example, a purchase within the last 30 days scores R5, an account with 60+ orders in 12 months scores F5, and $1.75M+ in 12-month revenue scores M5 — rather than dynamic quantiles based on the data's distribution. This means scores reflect an absolute business standard, not a relative ranking within the current customer base.  
 
 ---
 

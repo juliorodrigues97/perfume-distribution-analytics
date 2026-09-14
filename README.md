@@ -193,7 +193,7 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 - **Power BI** (Power Query, DAX) — data modeling and dashboard
 
 ---
-
+```
 ## Repository Structure
 perfume-distribution-analytics/
 ├── data/          # Raw and cleaned datasets (Aug 2021 – Feb 2024)
@@ -201,7 +201,7 @@ perfume-distribution-analytics/
 ├── assets/         # Dashboard screenshots
 ├── dashboard/       # Power BI dashboard files (.pbix)
 └── README.md        # Project documentation
-
+```
 ---
 
 ## Author

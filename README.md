@@ -185,7 +185,7 @@ Key rules applied throughout the data model:
   
 - **RFM segmentation**: scores are calculated at the customer account (group) level, not individual customer level — recency reflects the most recent purchase across all customers in the group.
   
-- **RFM scoring**: Recency, Frequency, and Monetary scores are assigned using fixed business thresholds rather than dynamic quantiles based on the customer base. Recency ranges from R5 for purchases within 30 days to R1 for customers with no purchase in the last 180 days. Frequency ranges from F1 for accounts with up to 1 order in 12 months to F5 for accounts with more than 60 orders. Monetary ranges from M1 for accounts generating up to $7K in 12 month revenue to M5 for accounts generating more than $1.75M. This ensures that scores represent consistent business standards rather than a customer's relative position within the current customer base. 
+-**RFM scoring**: Recency, Frequency, and Monetary scores use fixed business thresholds rather than dynamic quantiles. R5 represents purchases within 30 days, F5 more than 60 orders in 12 months, and M5 more than $1.75M in 12 month revenue. This ensures scores reflect consistent business standards rather than relative customer rankings.
 
 ---
 

@@ -21,16 +21,30 @@ Since I was studying data analytics on the side, I saw an opportunity to build s
 
 ---
 
-## Data Note
+## Data & Anonymization
 The original company name, employees, customers, and financial figures have been fully anonymized. All data in this repository is synthetic, generated to mirror the structure, scale, and data quality challenges of the original production system, including realistic data quality issues such as inconsistent categorization, duplicate records, and missing values.
 
 The goal of this project is to demonstrate the type of ETL, data cleaning, and business intelligence work performed in that role, translated into a US-market context (schema, currency, and terminology).
 
 ---
 
-## Tech Stack
-- **Python** (pandas) — synthetic data generation and cleaning pipeline
-- **Power BI** (Power Query, DAX) — data modeling and dashboard
+## Data Pipeline
+Raw generation → Data quality validation → Cleaning & business rules → Power BI model
+
+---
+
+## Business Rules
+Key rules applied throughout the data model:
+
+- **Valid sale**: a transaction counts as revenue only if it has a standard sales tax code (excludes purchases, adjustments, and internal transfers), is not a bonus/free item, and is not a canceled invoice.
+  
+- **Returns**: only transactions with sales-return-specific tax codes count as genuine returns — other return-like codes (e.g., undelivered merchandise, cancellations) are excluded from the return value calculation.
+  
+- **Targets**: monthly targets were calibrated against valid revenue only, distributed across reps based on their historical share of company revenue, with randomized variance to simulate real-world target-setting.
+  
+- **RFM segmentation**: scores are calculated at the customer account (group) level, not individual customer level — recency reflects the most recent purchase across all customers in the group.
+  
+- **RFM scoring**: Recency, Frequency, and Monetary scores use fixed business thresholds rather than dynamic quantiles. R5 represents purchases within 30 days, F5 more than 60 orders in 12 months, and M5 more than $1.75M in 12 month revenue. This ensures scores reflect consistent business standards rather than relative customer rankings.
 
 ---
 
@@ -174,44 +188,19 @@ Clicking into the ABC classification view breaks the same portfolio into Class A
 
 ---
 
-## Business Rules
-Key rules applied throughout the data model:
-
-- **Valid sale**: a transaction counts as revenue only if it has a standard sales tax code (excludes purchases, adjustments, and internal transfers), is not a bonus/free item, and is not a canceled invoice.
-  
-- **Returns**: only transactions with sales-return-specific tax codes count as genuine returns — other return-like codes (e.g., undelivered merchandise, cancellations) are excluded from the return value calculation.
-  
-- **Targets**: monthly targets were calibrated against valid revenue only, distributed across reps based on their historical share of company revenue, with randomized variance to simulate real-world target-setting.
-  
-- **RFM segmentation**: scores are calculated at the customer account (group) level, not individual customer level — recency reflects the most recent purchase across all customers in the group.
-  
-- **RFM scoring**: Recency, Frequency, and Monetary scores use fixed business thresholds rather than dynamic quantiles. R5 represents purchases within 30 days, F5 more than 60 orders in 12 months, and M5 more than $1.75M in 12 month revenue. This ensures scores reflect consistent business standards rather than relative customer rankings.
+## Tech Stack
+- **Python** (pandas) — synthetic data generation and cleaning pipeline
+- **Power BI** (Power Query, DAX) — data modeling and dashboard
 
 ---
 
 ## Repository Structure
-
-```
 perfume-distribution-analytics/
 ├── data/          # Raw and cleaned datasets (Aug 2021 – Feb 2024)
 ├── notebooks/      # Data cleaning scripts (Python)
 ├── assets/         # Dashboard screenshots
 ├── dashboard/       # Power BI dashboard files (.pbix)
 └── README.md        # Project documentation
-```
-
----
-
-## Data Pipeline
-Raw generation → Data quality validation → Cleaning & business rules → Power BI model
-
----
-
-## Setup
-This is a fully reproducible pipeline. To run it locally:
-1. Set the `MASKING_DATA_PATH` environment variable to your local data folder
-2. Run the notebooks in `notebooks/` in numbered order
-3. Open the `.pbix` file and set the `DataPath` parameter to match
 
 ---
 
